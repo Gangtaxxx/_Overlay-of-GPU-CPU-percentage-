@@ -3,11 +3,12 @@
 Go to this link https://drive.google.com/file/d/1Xzm8Y0QoD15CyIkRHkIZEn9bFKnmdzX4/view?usp=sharing and just download it
 
 
-windows will says that<img width="582" height="514" alt="Capture d&#39;écran 2026-05-17 092432" src="https://github.com/user-attachments/assets/8c5c5030-f108-4f4a-8fe5-bbc9b7b42388" />
+windows will says that
+<img width="582" height="514" alt="Capture d&#39;écran 2026-05-17 092432" src="https://github.com/user-attachments/assets/8c5c5030-f108-4f4a-8fe5-bbc9b7b42388" />
 
 
 
-click on more informations or something like that and then clicl on that
+click on more informations or something like that and then click on that
 
 
 
